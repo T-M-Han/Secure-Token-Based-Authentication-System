@@ -1,0 +1,23 @@
+{
+    "Han": {
+        "password": "$2b$12$vNqFws3hIWHioSmN8lpfSeUFigbOYJSO/z3F6.QWvwBJoX85XHvzK",
+        "is_staff": false,
+        "permissions": [
+            "read"
+        ]
+    },
+    "wai": {
+        "password": "$2b$12$q7TM.1GbwU1O308hUl78IuGvYc6Iu0IQtIcj8GjuFEvhNR9x/DR62",
+        "is_staff": false,
+        "permissions": [
+            "read"
+        ]
+    },
+    "Thaw": {
+        "password": "$2b$12$kgnTBGy/K47iYomsTcNnq.xk317Qp1KnMbNSK5iXZlAE1S6ykR.py",
+        "is_staff": false,
+        "permissions": [
+            "read"
+        ]
+    }
+}
